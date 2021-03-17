@@ -1,0 +1,28 @@
+{
+  "jogos": [
+    {
+      "descricao": "FIFA 15",
+      "genero": "Esporte",
+      "rating": 8,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "descricao": "Rainbow Six",
+      "genero": "Ação",
+      "rating": 8
+    },
+    {
+      "id": 3,
+      "descricao": "Destiny",
+      "genero": "Loot-Shooter",
+      "rating": 10
+    },
+    {
+      "descricao": "God of War",
+      "genero": "Ação e Aventura",
+      "rating": 10,
+      "id": 4
+    }
+  ]
+}
