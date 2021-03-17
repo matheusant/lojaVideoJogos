@@ -1,0 +1,23 @@
+{
+  "name": "lojaVideoJogos",
+  "version": "1.0.0",
+  "description": "API com Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusant/lojaVideoJogos.git"
+  },
+  "keywords": [],
+  "author": "Matheus Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusant/lojaVideoJogos/issues"
+  },
+  "homepage": "https://github.com/matheusant/lojaVideoJogos#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
